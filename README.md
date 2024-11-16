@@ -1,2 +1,2 @@
 # Competitive-Programming
-Let's be a Competitive Programmer.
+Let's solve the contests.
