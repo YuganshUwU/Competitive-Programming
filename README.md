@@ -1,2 +1,2 @@
-# Competitive-Programming
+# TheContestSolver
 Let's solve the contests.
