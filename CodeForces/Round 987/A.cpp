@@ -1,4 +1,4 @@
-// Link : [A - Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A)
+[A - Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A)
 
 /*  Question Summary : 
       The problem provides an array representing the heights of pillars, currently arranged in non-increasing order. 
