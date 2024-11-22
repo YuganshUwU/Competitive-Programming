@@ -19,7 +19,7 @@
         if both the elements are present, return the current element and the k - 2 / current element as your answer.
 */
 
-// Time Complexity : O(k * k) -> worst case, avg case : O(N) -> depends on the find function of the unordered map. Use a map to get a fixed time of O(N logN)
+// Time Complexity : O(t * k * k) -> worst case, avg case : O(N) -> depends on the find function of the unordered map. Use a map to get a fixed time of O(N logN)
 // Space Complexity : O(k)
 
 #include<bits/stdc++.h>
