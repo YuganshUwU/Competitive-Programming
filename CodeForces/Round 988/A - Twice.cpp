@@ -12,7 +12,7 @@
     If the frequency of the current element is greater than 1, then increment the result by 1 and reduce the mp[curr] by 2
 */
 
-// Time Complexity : O(N)
+// Time Complexity : O(t * N)
 // Space Complexity : O(N)
 
 #include<bits/stdc++.h>
